@@ -10,17 +10,18 @@ Cтек технологий:
 *  Основы JavaScript
 *  Основы JQuery
 * Photoshop, Figma
-
 * Git, Github
-* Windows
 * VS Code
+* Windows
+
 ---
 
 
 
 | Проект  | Технологии  | Категория |
 |:------------------------------------------- |:-----------------------------:| ---------------------------------------:|
-| [Lemon](https://bunkovalexander.github.io/MyFirstRepository/)      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| [1.Lemon](https://bunkovalexander.github.io/Project-1-Lemon/.)          | HTML, CSS                      |  верстка   |
+| [2.Pizza](https://bunkovalexander.github.io/Project-2-Pizza-/)          |                                |  верстка   |
+| [3.MoGo](https://bunkovalexander.github.io/Project-3-MoGo/)             |  HTML, CSS, JQuery             |  верстка   |
+| [2.Pizza](https://bunkovalexander.github.io/Project-4-ActiveBox/.)      | PUG, SCSS. JQuery, Gulp        |  верстка   |
 
