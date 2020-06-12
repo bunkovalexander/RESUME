@@ -1,3 +1,4 @@
+---
 # Буньков Александр
 ---
 Cтек технологий:
@@ -17,5 +18,9 @@ Cтек технологий:
 
 
 
+| Проект  | Технологии  | Категория |
+|:------------- |:---------------:| -------------:|
+| [Lemon](https://bunkovalexander.github.io/MyFirstRepository/)      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
 
-[ссылка с title элементом](http://example.com/link "Я ссылка")
