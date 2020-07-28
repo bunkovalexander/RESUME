@@ -19,6 +19,8 @@ Cтек технологий:
 
 ### Реализованные некомерческие проекты:
 
+
+
 | Проект  | Технологии  | Категория |
 |:------------------------------------------- |:-----------------------------:| ---------------------------------------:|
 | [1. Lemon](https://bunkovalexander.github.io/Project-1-Lemon/.)          | HTML, CSS                      | верстка   |
@@ -27,3 +29,4 @@ Cтек технологий:
 | [4. ActiveBox](https://bunkovalexander.github.io/Project-4-ActiveBox/build)      | PUG, SCSS. JQuery, Gulp    | верстка   |
 | [5. Calculator](https://bunkovalexander.github.io/Project-5-Calculator/build)      | Gulp, JavaScript    | JS   |
 | [6. Table-JS](https://bunkovalexander.github.io/Project-6-Table-JS/build/)      | JavaScript    | JS  |
+| [7. TSEKH](https://bunkovalexander.github.io/Project-7-TSEKH/build/)      | PUG, SCSS. JQuery, Gulp    | верстка  |
